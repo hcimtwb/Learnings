@@ -1,5 +1,5 @@
 # Developerf Log
-Learnings
+I will spend 1000 days to code
 
 ## Dev logs
 
