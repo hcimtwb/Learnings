@@ -1,4 +1,7 @@
-# Learnings
+# Developerf Log
 Learnings
 
-## Mar 11, 2025
+## Dev logs
+
+### 2025-03-11
+- Read video about github
