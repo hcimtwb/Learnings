@@ -1,5 +1,6 @@
-# Developerf Log
+# Developer Log
 I will spend 1000 days to code
+I am a rare soul who spent 10 years in non-tech industry and got a SWE position at a Big Tech company. My goal is to share all the lessons learnt through my journey.
 
 ## Dev logs
 
@@ -12,3 +13,4 @@ I will spend 1000 days to code
 - 3 months project
 - Find a support community
 - Find something you like to do
+- Learnings and explaining the journey
