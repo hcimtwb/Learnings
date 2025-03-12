@@ -10,4 +10,5 @@ I will spend 1000 days to code
 - 3-4 hours, 5-6 days
 - 3 months learning
 - 3 months project
-- Find a community
+- Find a support community
+- Find something you like to do
