@@ -28,9 +28,11 @@ Cloud & Serverless
 
 Goal: survial mode. 
 How to learn the least to get things done?
-- Front end: users interaction i.e. clientside 
-- Back end: behind the scene i.e. server (could be server, cloud)
-- Connecting the front and the back via APIs
+- Front end: users interaction i.e. clientside. Language: Basic: HTML, CSS, JS. Cool: React.JS, Tailwind CSS
+- Back end: behind the scene i.e. server (could be server, cloud). Tool: JS (language) + Express.JS (framework), Python (language) + Django (framework), Ruby (language) + Ruby on Rails
+- Connecting the front and the back via network requests communicate via APIs
+
+ 
 
 
 
