@@ -21,7 +21,8 @@ High level structure: there are different folders
       <App/>   >> this is [1.1]app.jsx
    </StrictMode>,)
 >> >> basically .render() is saying inject the [1.1] App to html
-  
+- [1.3] index.css >> this is for layout style
+- [1.4] fanta.css >> this is for element style 
 [2] **index.html** file:
 - contains: 
   <div id="root"></div>
