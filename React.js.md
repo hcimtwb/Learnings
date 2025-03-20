@@ -11,7 +11,7 @@ Watch project 1:
 High level structure: there are different folders
 
 [1] src Folder: contains App.css, index.css, main.jsx
-- [1.1] Parent components: App.jsx, contains <Header/>, <Tabs/>,<TodoList/>, <TodoInput/>
+- [1.1] Parent components: App.jsx, contains "<Header/>, <Tabs/>,<TodoList/>, <TodoInput/>"
 - [1.1] Child Components: Functional components: Header.jsx, Tabs.jsx, TodoCard.jsx, TodoInput.jsx, TodoList.jsx
 - [1.1] Child child components: From TodoList.jsx, we have (multiple) <TodoCard/> embedded inside
 >> component content: contains a export function, and return jsx
