@@ -11,20 +11,21 @@ Watch project 1:
 High level structure: there are different folders
 
 [1] src Folder: contains App.css, index.css, main.jsx
-- [1.1] Parent components: App.jsx, contains "<Header/>, <Tabs/>,<TodoList/>, <TodoInput/>"
+- [1.1] Parent components: **App.jsx**, contains <Header/>, <Tabs/>,<TodoList/>, <TodoInput/>
 - [1.1] Child Components: Functional components: Header.jsx, Tabs.jsx, TodoCard.jsx, TodoInput.jsx, TodoList.jsx
 - [1.1] Child child components: From TodoList.jsx, we have (multiple) <TodoCard/> embedded inside
 >> component content: contains a export function, and return jsx
-- [1.2] main.jsx >> relates to [2] index.html
->> createRoot(document.getElementById('root').render(
+- [1.2] **main.jsx** >> relates to [2] index.html
+>> createRoot(document.getElementById('root').render(   >> document is in [2] index.html, get element by id, which is root in index.html
    <StrictMode>
-      <App/>
+      <App/>   >> this is [1.1]app.jsx
    </StrictMode>,)
+>> >> basically .render() is saying inject the [1.1] App to html
   
-[2] index.html file:
+[2] **index.html** file:
 - contains: 
   <div id="root"></div>
-  <script type="module" src="/src/main.jsx"></script>
+  <script type="module" src="/src/main.jsx"></script> >> this is [1.2]
 
 
 
