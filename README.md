@@ -51,6 +51,8 @@ MINDSET:
 - Don't even need to think about a project to do. Just thing of anytihng and start because you can just plug and play very quickly once you learn the tricks.
 
 CONCEPTUAL: FRONT END - React.JS: how to compartmentalise things
+Ref: https://www.youtube.com/watch?v=bfcoBGgDSIc
+
 Components:
 - Parent: application
 - Children: header, main, footer
@@ -87,7 +89,10 @@ Components:
        e.g. useEffect() - track events
        e.g. useRef() - retain info or ref div
        e.g. can write custom hook to fetch data
-     
+
+==================================================
+
+
  
    
 
