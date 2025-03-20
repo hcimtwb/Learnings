@@ -1,5 +1,5 @@
 ## React.JS - Deploy 3 modern web app
-### 2025-03-20
+### 2025-03-20 - learn about the structure of a webpage built on react (the files needed)
 Ref: https://www.youtube.com/watch?v=iKpkVKubvKk
 Skills: 
 - cache things, API, works with light mode vs dark mode, mobile vs desktop app
