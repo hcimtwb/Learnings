@@ -61,16 +61,33 @@ Components:
     1.2) <Dashboard> </Dashboard> to display return
     1.3) In essence, in React.js, we embeded the JS in HTML so you can write the function inside e.g. <div> {2*4}</div>
 -  2) OUTPUT: Returns JSX
+ 
+### 2025-03-20
 -  3) TREATMENT OF VARIABLE:
     3.1) You can have variables in JS, but if you have user input and this variable changes, then you need "state" to manage the change for it to be reflected, solution: useState, a stateful variable and have a function "setName" to update the variable
     3.2) FORMAT:
       3.2.1) const[name, setName] = useState(default)
       3.2.2) IMPORT USESTATE
  - 4) Property:
-      4.1) Attribute prop
+      4.1) Attribute, property of the tag
+           e.g. <Dashboard title ={"Home"}}/>
       4.2) Children prop
+           e.g. <Dashboard> <p>Hellow world</p></Dashboard>
+  **    4.3) Put together:**
+           const[title, children] = props
+           return (             << return the jsx
+            <div>
+              <p>{title}</p>    << title = home
+              {children}        << children set as hello world 
+            </div>
+      )
       
-      
+- 5) Hook: manage stateful logic
+  5.1) e.g. useState() - to initialize
+       e.g. useEffect() - track events
+       e.g. useRef() - retain info or ref div
+       e.g. can write custom hook to fetch data
+     
  
    
 
