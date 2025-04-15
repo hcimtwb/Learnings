@@ -95,9 +95,49 @@ PRACTICE: https://github.com/hcimtwb/Learnings/blob/010818bdd090df91202dc54a6e85
 
 ### 2025-04-12 in Iceland
 INSPIRED: 
+Acquired podcast: Vercel - AI web app builder.
+https://www.acquired.fm/episodes/building-web-apps-with-just-english-and-ai-with-vercel-ceo-guillermo-rauch
 
- 
-   
+### 2025-04-15 in London
+**Project Stevenc**
+- To build a Web application
+- Functions: upload batches of images, then use AI facial recognition to identify and specific people in the photo by a pre-uploaded photo
+  
+This will required:
+- a UI for uploading reference photos and batches of images (e.g. through google drive)
+- Store these images
+- Server-side component to process the images with facial recognition
+- Results page to display the matches
+
+Explaining the overall architecture:
+Backend:
+- 1) lib/actions.ts:
+     >> contains the key functions for data operationn
+     >> facial recignitions - right now just using a random matcher 
+  2) Components/reference-photo-uploader:
+     >> allow client to upload reference photos of people to identify
+  3) Components/reference-photo-list
+     >> server component that displays all refernece photos
+     >> display photo and provides delate functionality
+  4) batch uploader
+  5) list the results
+Frontend
+  6) Page component - the actual front end
+
+Final project: https://v0.dev/chat/facial-recognition-app-5Q6pBlqtItt
+
+Future improvements:
+- Use a real database instead of in memory. In-memory means data is stored in the system's RAM. Good thing is it is fast to retrive, but it is volatile. It is lost when the system shuts down or restarts. Limited by scalability as it is limited by the system memory.
+- Implement actual facial recognition feature algo instead of a random one
+- Add user authentication and authorization
+- Improve error handling and validation 
+  
+==
+LEARNING:
+
+
+
+
 
 
   
