@@ -91,10 +91,10 @@ Components:
        e.g. can write custom hook to fetch data
 
 PRACTICE: https://github.com/hcimtwb/Learnings/blob/010818bdd090df91202dc54a6e85b88dc113dcb1/React.js.md#reactjs---deploy-3-modern-web-app
-
-
 ==================================================
 
+### 2025-04-12 in Iceland
+INSPIRED: 
 
  
    
