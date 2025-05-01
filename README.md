@@ -3,6 +3,11 @@ I will spend 1000 days to code
 I am a rare soul who spent 10 years in non-tech industry and got a SWE position at a Big Tech company. My goal is to share all the lessons learnt through my journey.
 
 ## Dev logs
+- 3/11/2025: Mindset
+- 3/19/2025: Conceptual
+- Apr: Learn about Vercel, first application done on AI (Stevenc)
+- May: 
+- To learn: Postman https://www.youtube.com/watch?v=VywxIQ2ZXw4 >> learn how to test APIs
 
 ### 2025-03-11
 CONCEPTUAL:
@@ -133,7 +138,9 @@ Future improvements:
 - Improve error handling and validation 
   
 ==
-LEARNING:
+### 2025-05-01
+- Postman: you can have initial value (public), and current value (private to me)
+- 
 
 
 
