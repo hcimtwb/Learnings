@@ -7,7 +7,9 @@ I am a rare soul who spent 10 years in non-tech industry and got a SWE position 
 - 3/19/2025: Conceptual
 - Apr: Learn about Vercel, first application done on AI (Stevenc)
 - May: 
-- To learn: Postman https://www.youtube.com/watch?v=VywxIQ2ZXw4 >> learn how to test APIs
+  - Tools: Postman https://www.youtube.com/watch?v=VywxIQ2ZXw4 >> learn how to test APIs
+  - Project based practice: https://github.com/practical-tutorials/project-based-learning?tab=readme-ov-file#python
+-  
 
 ### 2025-03-11
 CONCEPTUAL:
