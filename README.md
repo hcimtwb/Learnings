@@ -8,9 +8,10 @@ I am a rare soul who spent 10 years in non-tech industry and got a SWE position 
 - Apr: Learn about Vercel, first application done on AI (Stevenc)
 - May: 
   - Tools: Postman https://www.youtube.com/watch?v=VywxIQ2ZXw4 >> learn how to test APIs
+  - Tool: Python Tutor: visual AI python editor
   - 5/30 Uninspiring: spent a lot of days watching how to be a SWE... => learnt the importance of practice
   - 5/30 Mindset: shift from needing to learn to code to needing to learn to understand how things work
-  - 5/31 Project based practice: https://github.com/practical-tutorials/project-based-learning?tab=readme-ov-file#python
+  - 5/31 Project based practice in github: https://github.com/practical-tutorials/project-based-learning?tab=readme-ov-file#python
  
 
 ### 2025-03-11
