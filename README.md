@@ -9,7 +9,8 @@ I am a rare soul who spent 10 years in non-tech industry and got a SWE position 
 - May: 
   - Tools: Postman https://www.youtube.com/watch?v=VywxIQ2ZXw4 >> learn how to test APIs
   - Project based practice: https://github.com/practical-tutorials/project-based-learning?tab=readme-ov-file#python
--  
+  - Uninspiring: spent a lot of days watching how to be a SWE... => learnt the importance of practice
+  - Mindset: shift from needing to learn to code to needing to learn to understand how things work 
 
 ### 2025-03-11
 CONCEPTUAL:
