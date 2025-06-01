@@ -12,7 +12,8 @@ I am a rare soul who spent 10 years in non-tech industry and got a SWE position 
   - 5/30 Uninspiring: spent a lot of days watching how to be a SWE... => learnt the importance of practice
   - 5/30 Mindset: shift from needing to learn to code to needing to learn to understand how things work
   - 5/31 Project based practice in github: https://github.com/practical-tutorials/project-based-learning?tab=readme-ov-file#python
- 
+- June:
+  - 6/1 django web application from github project 
 
 ### 2025-03-11
 CONCEPTUAL:
