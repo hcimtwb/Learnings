@@ -1,6 +1,9 @@
 # Developer Log
 I will spend 1000 days to code
 I am a rare soul who spent 10 years in non-tech industry and got a SWE position at a Big Tech company. My goal is to share all the lessons learnt through my journey.
+Celeration day: 
+- Completed coding shitty projects and learnt about X, Y, Z
+- The top 5 voices are: Indie Hackers, Y, and Z 
 
 ## Dev logs
 - 3/11/2025: Mindset
@@ -13,7 +16,9 @@ I am a rare soul who spent 10 years in non-tech industry and got a SWE position 
   - 5/30 Mindset: shift from needing to learn to code to needing to learn to understand how things work
   - 5/31 Project based practice in github: https://github.com/practical-tutorials/project-based-learning?tab=readme-ov-file#python
 - June:
-  - 6/1 django web application from github project 
+  - 6/1 django web application from github project
+  - 6/4 Ali Abdaal
+  - 
 
 ### 2025-03-11
 CONCEPTUAL:
