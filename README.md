@@ -217,8 +217,9 @@ Deploy the app
 >> check status >> $git status
 >> actually commit >> $ git add .
 >> $ git commit -m "My Django Girls app, first commit"
->> Push the code to GitHub
->> 
+>> Push the code to GitHub by first creating a new repository on GitHub called "my-first-blog"
+>> $ git remote add origin https://github.com/<your-github-username>/my-first-blog.git
+>> $ git push -u origin HEAD
 
 
 
