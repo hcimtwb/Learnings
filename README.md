@@ -213,7 +213,12 @@ Deploy the app
 - note db.sqlite3 is a local datbase, using standard web programming practice, we will use seprate database for local testing site anad live website on PythonAnywhere (this could be SQLight like my dev machine, but usually you will use MySQL which can deal wiht a lot more visitors than SQLite), but now that we are ignorning the SQLite database for GitHub Copy, all the posts and superusers you created so far are going to only be available locally and you will have to create new ones on production.
 - => hence local database is your playgraound where you can test things, and not be afraid that you will delete your real posts from your blog
 
-
+2) Check status
+>> check status >> $git status
+>> actually commit >> $ git add .
+>> $ git commit -m "My Django Girls app, first commit"
+>> Push the code to GitHub
+>> 
 
 
 
