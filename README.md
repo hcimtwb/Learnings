@@ -18,7 +18,7 @@ Celeration day:
 - June:
   - 6/1 django web application from github project
   - 6/4 Ali Abdaal
-  - 
+  - 6/6 Wilson Ip, Omar
 
 ### 2025-03-11
 CONCEPTUAL:
@@ -151,7 +151,44 @@ Future improvements:
 ==
 ### 2025-05-01
 - Postman: you can have initial value (public), and current value (private to me)
-- 
+
+### Github Djangogirls project:
+https://tutorial.djangogirls.org/en/django_installation/
+- Using Commandline to install python
+- Install the code editor e.g. VS code, sublime
+- Using Django framework to make it easier >> there are lots of options depending on the things you do
+1) >> Create virtual environment to  directory: mkdir djangogirls
+   >> python -m myvenv
+   >> source myvenv/bin/activate
+2) VS Code save requirement.txt in django
+3) Terminal: install django
+
+Create project
+- Create project: (myvenv) ~/djangofirls$ diango_admin startproject mysite .
+- >> you will get manage.py, mysite..
+<img width="288" alt="Screenshot 2025-06-07 at 10 10 18 AM" src="https://github.com/user-attachments/assets/5117e80a-ce30-43ae-89ba-e645f32ff6ec" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
 
 
 
