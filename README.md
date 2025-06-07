@@ -19,6 +19,8 @@ Celeration day:
   - 6/1 django web application from github project
   - 6/4 Ali Abdaal
   - 6/6 Wilson Ip, Omar
+  - 6/7 deployed my first website
+  - "Comments explain code to other programmers" => "Code explains the comments to the computer"
 
 ### 2025-03-11
 CONCEPTUAL:
