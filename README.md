@@ -221,6 +221,20 @@ Deploy the app
 >> $ git remote add origin https://github.com/<your-github-username>/my-first-blog.git
 >> $ git push -u origin HEAD
 
+3) make it online on PythonAnywhere
+- Pulling code from Github and configure it on PythonAnywhere to recognize it and start serving it as a web aplication. There are manual ways, but PythonAnywhere provides a helper tool to do it.
+- >> pa_autoconfigure_django.py --python=3.10 https://github.com/hcimtwb/my-first-blog.git >> do all the configurations:
+  >>> download the code from Github, Create a virtual environment on PythonAnywhere, update settings, setting database, setting static files, congi PythonAnywhere to server your web app via API. 
+  == now note your database on PythonAnywhere is separate from your database on your own computer, so it can have different posts an admin accts.
+
+4) On PythonAnywhere
+- Create super user
+- It is now live: https://hcimtwb.pythonanywhere.com/
+
+=I MADE IT!!!!!!=
+Common workflow in web development:
+- make changes locally, push gthose changes to GitHub, pull your changes down to your live Web server
+
 
 
 
