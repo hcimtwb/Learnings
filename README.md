@@ -21,6 +21,14 @@ Celeration day:
   - 6/6 Wilson Ip, Omar
   - 6/7 deployed my first website
   - "Comments explain code to other programmers" => "Code explains the comments to the computer"
+  - 6/7 How to think like a programmer @ Andy Harris https://www.youtube.com/watch?v=azcrPFhaY9k
+  - >> Programming is not writing code 
+    >> Don't think it's simple
+    >> We think we did something wrong, but but maybe we did the wrong thing.
+    >> It's an implementation problem -> It's an algo problem
+    >> AL can help you code, it cannot help you with algo
+    >> Start with Understanding. Switch off computer.
+
 
 ### 2025-03-11
 CONCEPTUAL:
