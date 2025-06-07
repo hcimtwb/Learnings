@@ -164,18 +164,54 @@ https://tutorial.djangogirls.org/en/django_installation/
 3) Terminal: install django
 
 Create project
-- Create project: (myvenv) ~/djangofirls$ diango_admin startproject mysite .
+- 1) Create **project**: (myvenv) ~/djangofirls$ diango_admin startproject mysite .
 - >> you will get manage.py, mysite..
 <img width="288" alt="Screenshot 2025-06-07 at 10 10 18 AM" src="https://github.com/user-attachments/assets/5117e80a-ce30-43ae-89ba-e645f32ff6ec" />
+- 2) Change something on **Settings**, undere ALLOWED_HOSTS = ['localhost', '127.0.0.1', '.pythonanywhere.com']
+- 3) Set up a database (dbsqlite3 is already installed)
+- >> create a **database** python manage.py migrate
+  >> Starting **web server** (myvenv) ~/djangogirls$ python manage.py runserver
+  >>> http://127.0.0.1:8000
 
+Django Model - create the objects 
+Model is a special kind of object saved in the database
+1) Creating an **application** inside the project
+>> (myvenv) ~/djangogirls$ python manage.py startapp blog
+<img width="226" alt="Screenshot 2025-06-07 at 11 01 02 AM" src="https://github.com/user-attachments/assets/22f81694-6e8a-4c23-9521-9e35bec87be5" />
+>> Update setting
+2) Create a blog post **model** (this is under blog > models.py)
+>> this is where you define the models/Model class object
+>> (note: before making changes, remember to python manage.py makemigrations blog) this is to commit the changes  
+3) Create **tables** formodels in your database
+>>  (myvenv) ~/djangogirls$ python manage.py makemigrations blog
+>>  (myvenv) ~/djangogirls$ python manage.py migrate blog
 
+== by now, your model is in your database ==
 
+4) Django **admin.py**
+- blog/admin.py, add registration and contents
+- To make model visible on admin page, register the model with "admin.site.register(Post)"
+- (note: need to run "python manage.py runserver")
+- http://127.0.0.1:8000/admin/
 
-
-
-
-
-
+Deploy the app
+- Until now, your website is only available on your computer, we need to deploy it onto the internet
+- Website need to be located on a server e.g. PythonAnywhere, Github
+- >> Local computer - where you do development and testing
+  >> Github - place a copy of your program
+  >> PythonAnywhere - where you place your website, you will update it by getting a new copy of your code from Github
+  >> <img width="744" alt="Screenshot 2025-06-07 at 11 17 51 AM" src="https://github.com/user-attachments/assets/eb1231bf-74c8-4493-96d7-3a693a0782b3" />
+  >> <img width="741" alt="Screenshot 2025-06-07 at 11 18 34 AM" src="https://github.com/user-attachments/assets/548f7888-a6aa-474d-8cc0-e2d57944db6c" />
+1) Deploying on Github 
+- initialize project on github (only need once per project)
+- (make sure you are in djangogirls directory)
+  >> $ git init
+  >> Initialized empty Git repository in ~/djangogirls/.git/
+  >> $ git config --global user.name "Your Name"
+  >> $ git config --global user.email you@example.com
+- Git will track changes, but some files we can ignore (hence create a .gitignore file, this file could be hidden on mac)
+- note db.sqlite3 is a local datbase, using standard web programming practice, we will use seprate database for local testing site anad live website on PythonAnywhere (this could be SQLight like my dev machine, but usually you will use MySQL which can deal wiht a lot more visitors than SQLite), but now that we are ignorning the SQLite database for GitHub Copy, all the posts and superusers you created so far are going to only be available locally and you will have to create new ones on production.
+- => hence local database is your playgraound where you can test things, and not be afraid that you will delete your real posts from your blog
 
 
 
