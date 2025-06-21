@@ -17,7 +17,8 @@ Celeration day:
   - 5/31 Project based practice in github: https://github.com/practical-tutorials/project-based-learning?tab=readme-ov-file#python
 - June:
   - 6/1 django web application from github project
-**  -   ### Github Djangogirls project
+**  - https://github.com/practical-tutorials/project-based-learning?tab=readme-ov-file#additional-resources
+****  -   ### Github Djangogirls project
   - 6/4 Ali Abdaal
   - 6/6 Wilson Ip, Omar
   - 6/7 deployed my first website
@@ -32,6 +33,16 @@ Celeration day:
   - 6/13 Lesson 1 - created a HTML, CSS, JS 
   - 6/20 Lesson 2 - a weather app
   - >> 
+
+
+### tools:
+Python/JS visualize code:
+https://pythontutor.com/render.html#mode=display
+
+Cool projects:
+Project based learning:
+https://github.com/practical-tutorials/project-based-learning?tab=readme-ov-file#additional-resources
+
 
 
 ### 2025-03-11
