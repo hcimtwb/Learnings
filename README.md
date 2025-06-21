@@ -34,7 +34,20 @@ Celeration day:
   - 6/20 Lesson 2 - a weather app
   - >> 
 
+Read: 
+- How to be a good programmer https://www.youtube.com/watch?v=v6hm27o_gLM
+- https://www.youtube.com/watch?v=BR5n2cWmpo8
+- 
+July
+- Postman https://github.com/vdespa/introduction-to-postman-course/blob/main/simple-books-api.md
+- API testing course https://www.youtube.com/watch?v=VywxIQ2ZXw4
+- MAPI (to do)
+- https://www.postman.com/meta/facebook-marketing-api/collection/9jo4f5y/mapi-onboarding
+- https://www.postman.com/meta/facebook-marketing-api/request/u38qbri/get-insight-details-from-an-adaccount-l4
+- https://www.postman.com/meta/facebook-marketing-api/collection/9jo4f5y/mapi-onboarding
+- Meta MAPI https://docs.google.com/spreadsheets/d/10cWQATlo5BPaCW37R6TR8mTPn4_7FMaEMimbP9yMnzY/edit?gid=333415637#gid=333415637
 
+  
 ### tools:
 Python/JS visualize code:
 https://pythontutor.com/render.html#mode=display
@@ -43,6 +56,7 @@ Cool projects:
 Project based learning:
 https://github.com/practical-tutorials/project-based-learning?tab=readme-ov-file#additional-resources
 
+Checking your progress map in Computer Science: file:///Users/jewelho/Desktop/The_Simple_CS_Degree_Map.pdf
 
 
 ### 2025-03-11
