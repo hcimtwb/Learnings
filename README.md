@@ -31,7 +31,10 @@ Celeration day:
     >> AL can help you code, it cannot help you with algo
     >> Start with Understanding. Switch off computer.
   - 6/13 Lesson 1 - created a HTML, CSS, JS 
-  - 6/20 Lesson 2 - a weather app
+  - 6/20 Lesson 2 - a weather app:
+  - A) Javascript arrays
+  - B) asynchronous Javascript, promises, callback hell, async await 
+  - C) DOM manipulation 
   - >> 
 
 Read: 
