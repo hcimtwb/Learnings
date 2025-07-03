@@ -275,8 +275,19 @@ Deploy the app
 
 =I MADE IT!!!!!!=
 Common workflow in web development:
-- make changes locally, push gthose changes to GitHub, pull your changes down to your live Web server
+- make changes locally, push those changes to GitHub, pull your changes down to your live Web server
 
+==
+7/3: Learnings JS with Keerti
+Javascript:
+https://www.youtube.com/watch?v=e2fKYP_7B_Y
+Originally JS was something that was developed for separate browsers using a JS engine. Hence node.JS was developed to allow cross JS runtime environment.
+
+- Executing JS on VS code. node ___.js
+- JS code has a value type and a reference type
+- >> Value type: string, number, boolean, undefined, NULL, symbol - you can storing the value
+- >> Reference type: object, arrays, functions -- you are referencing it 
+  >>>    
 
 
 
