@@ -289,7 +289,14 @@ Originally JS was something that was developed for separate browsers using a JS 
 - >> Reference type: object, arrays, functions -- you are referencing it 
   >>>    
 
+7/6/2025 - Buildling a Quiz App
+- There is a page index.html
+- Contain questions
+- Function: define what is correct and incorrect
+- Function: track scores, and progress
+- Move it to different frames
 
+  
 
 
 
