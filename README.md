@@ -290,13 +290,34 @@ Originally JS was something that was developed for separate browsers using a JS 
   >>>    
 
 7/6/2025 - Buildling a Quiz App
-- There is a page index.html
-- Contain questions
+== outline==
+- HTML part: There is a page index.html
+- JS part: array of question objects:
+- const quizData = [
+-{ questions: Q1
+   options: A,B,C,D
+   answer: A
+},{ questions: Q2
+   options: A,B,C,D
+   answer: B
+  
+-   ]
+- Contain 5 questions
 - Function: define what is correct and incorrect
 - Function: track scores, and progress
 - Move it to different frames
+==DOM manipulation==
+- Document Object Model, this is used in JS that allows you to manipulate the structure, content, and style of the web page dynamically. 
+- DOM is how JS talks to HTML
+- The important DOM methods:
+- I) find things (id or element): document.getElementByID("id"), document.querySelector(".class")
+- >> if just the "byID", then no need to put # on the id
+- >> select descendent HTML elements: document.querySelector('#wrapper input') #where wrapper is the div id
+  <img width="1030" alt="Screenshot 2025-07-06 at 5 40 46 PM" src="https://github.com/user-attachments/assets/e102ee84-15f5-4ae8-a64e-d8cbfd949d95" />
+- >> select/exclude multiple HTML elements: document.querySelectorAll('#list li:not(#disabled')) #if id = disabled 
+- II) do things with element (change text, add CSS class, interact with events): element.textContent="...", element.classList.add("active"), element.addEventListener("click",fn)
 
-  
+
 
 
 
