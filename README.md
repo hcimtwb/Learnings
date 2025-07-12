@@ -35,8 +35,11 @@ Celeration day:
   - A) Javascript arrays methods 
   - B) asynchronous Javascript, promises, callback hell, async await 
   - C) DOM manipulation 
-  - >> 
-
+  - >>
+  - July 12:
+  - >> Sum two numbers, and change the output color as requested
+    >> Do it using Cursor.ai
+    >> 
 Read: 
 - How to be a good programmer https://www.youtube.com/watch?v=v6hm27o_gLM
 - https://www.youtube.com/watch?v=BR5n2cWmpo8
