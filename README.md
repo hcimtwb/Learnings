@@ -342,7 +342,9 @@ Survival mode learning on how to build things.
 - A website with 1 product
 - Product page features includes: image, price, description - View content 
 - Once you click a button, it will move to the next page - AddToCart
-- 
+
+=> can i just build the world's simpliest ecommerce site so my sales or anyone can just onboard within minutes? what are important and unimportant features?
+
 
  
 
