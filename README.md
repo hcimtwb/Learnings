@@ -320,8 +320,16 @@ Originally JS was something that was developed for separate browsers using a JS 
 - >> select/exclude multiple HTML elements: document.querySelectorAll('#list li:not(#disabled')) #if id = disabled 
 - II) do things with element (change text, add CSS class, interact with events): element.textContent="...", element.classList.add("active"), element.addEventListener("click",fn)
 
+==
+**A) Javascript arrays methods**
+- Array, you can play with a list
+- may, you can change elements of the array
+- Ifelse loop: condition? expressionIfTrue: expressionIfFale
+- identify the index and add 
+- >> const result = nums.map((num,index) => num+index);
 
-
+B) asynchronous Javascript, promises, callback hell, async await
+C) DOM manipulation
 
 
 
