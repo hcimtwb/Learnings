@@ -335,6 +335,14 @@ C) DOM manipulation
 
 
 
+==
+Survival mode learning on how to build things.
+- What if you have no time to build but you need to build a ecommerce website to set some functionalities?
+- You start with front end - 1 page HTML, CSS
+- A website with 1 product
+- Product page features includes: image, price, description - View content 
+- Once you click a button, it will move to the next page - AddToCart
+- 
 
  
 
