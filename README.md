@@ -39,7 +39,7 @@ Celeration day:
   - July 12:
   - >> Sum two numbers, and change the output color as requested
     >> Do it using Cursor.ai
-    >> 
+
 Read: 
 - How to be a good programmer https://www.youtube.com/watch?v=v6hm27o_gLM
 - https://www.youtube.com/watch?v=BR5n2cWmpo8
@@ -53,6 +53,12 @@ July
 - https://www.postman.com/meta/facebook-marketing-api/collection/9jo4f5y/mapi-onboarding
 - Meta MAPI https://docs.google.com/spreadsheets/d/10cWQATlo5BPaCW37R6TR8mTPn4_7FMaEMimbP9yMnzY/edit?gid=333415637#gid=333415637
 
+July 25
+- Javascript: Asynchronous function e.g. setTimeout()
+- Purpose: allows you to run functions simultaneously. Hence when you have one after another, they will run together instead of waiting
+- for prev to finish.
+- 
+  
   
 ### tools:
 Python/JS visualize code:
@@ -345,7 +351,7 @@ Survival mode learning on how to build things.
 
 => can i just build the world's simpliest ecommerce site so my sales or anyone can just onboard within minutes? what are important and unimportant features?
 
-
+==
  
 
 
