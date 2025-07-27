@@ -1,4 +1,4 @@
-# Developer Log
+<img width="596" height="750" alt="Screenshot 2025-07-27 at 9 58 15 AM" src="https://github.com/user-attachments/assets/b982843a-b4b3-4395-bb77-23c6d4dd5e7a" /># Developer Log
 I will spend 1000 days to code
 I am a rare soul who spent 10 years in non-tech industry and got a SWE position at a Big Tech company. My goal is to share all the lessons learnt through my journey.
 Celeration day: 
@@ -53,12 +53,30 @@ July
 - https://www.postman.com/meta/facebook-marketing-api/collection/9jo4f5y/mapi-onboarding
 - Meta MAPI https://docs.google.com/spreadsheets/d/10cWQATlo5BPaCW37R6TR8mTPn4_7FMaEMimbP9yMnzY/edit?gid=333415637#gid=333415637
 
+
 July 25
 - Javascript: Asynchronous function e.g. setTimeout()
 - Purpose: allows you to run functions simultaneously. Hence when you have one after another, they will run together instead of waiting
 - for prev to finish.
-- 
-  
+
+July 27: AI roadmap
+<img width="593" height="749" alt="Screenshot 2025-07-27 at 9 58 01 AM" src="https://github.com/user-attachments/assets/1e35a5ac-5239-46eb-ab09-73604cc03741" />
+AI product manager:
+- Product strategy
+- User stories
+- Open AI APIs
+- JIRA
+- Data understanding
+- Figma
+- Analytics tools
+<img width="596" height="750" alt="Screenshot 2025-07-27 at 9 58 15 AM" src="https://github.com/user-attachments/assets/2f1b458c-16a7-499f-a6b2-b62f31aedecb" />
+AI Solutions architect:
+- System design
+- LangChain
+- Vector DBs
+- APIs
+- Cloud platforms (AWS/GCP)
+- Orchestration frameworks
   
 ### tools:
 Python/JS visualize code:
