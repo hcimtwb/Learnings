@@ -1,4 +1,4 @@
-<img width="596" height="750" alt="Screenshot 2025-07-27 at 9 58 15 AM" src="https://github.com/user-attachments/assets/b982843a-b4b3-4395-bb77-23c6d4dd5e7a" /># Developer Log
+# Developer Log
 I will spend 1000 days to code
 I am a rare soul who spent 10 years in non-tech industry and got a SWE position at a Big Tech company. My goal is to share all the lessons learnt through my journey.
 Celeration day: 
@@ -69,6 +69,8 @@ AI product manager:
 - Data understanding
 - Figma
 - Analytics tools
+
+
 <img width="596" height="750" alt="Screenshot 2025-07-27 at 9 58 15 AM" src="https://github.com/user-attachments/assets/2f1b458c-16a7-499f-a6b2-b62f31aedecb" />
 AI Solutions architect:
 - System design
