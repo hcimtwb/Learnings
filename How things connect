@@ -5,16 +5,34 @@ People:
 - Networks: Linda
 
 How things connect in the system. 
+Internet is the product of a full stack.
+
 [User Brower] - [Front End: React] - [API Call: via REST or GraphQL API HTTP request/ Websocket: real time] - [Back End] - [Database: sends back response usually JSON]
-[Front End] HTML/CSS/JS, React
-[API] REST or GraphQL
+[Front End] HTML/CSS/JS, React, WWW
+[API] REST or GraphQL. Via a network request. located by a url.
 [Authentication] JWT, OAuth, or session-based authentication
 [Deployment] Docker (running containers), Kubernetes (orchestrate and manage containers), cloud (AWS, GCP, Azure) can be serverless
 [Back End] Node.js, Django
-[Database] MySQL, MongoDB, PostgreSQL - data storage designed for storing, retriving, managing data as associative, array, dictionaries, or hash table
-[Testing] 
+[Database] MySQL, MongoDB, PostgreSQL, SQLite - data storage designed for storing, retriving, managing data as associative, array, dictionaries, or hash table
+- SQL Database (Relational Database): MySQL, PostgreSQL, SQLite
+>> more structured, fixed schema, ACID compliance
+>> Query language: SQL e.g. MySQL, PostgreSQL, Meta's XDB
+- NoSQL (Non-relational database): 
+>> key-value, document, graph-based
+>> Query language: JSON based, MapReduce, custom APIs e.g. MongoDB(document), Meta's DocDB, TAO (key value), firecase
+- **ORMs**: e.g. sequelize 
+[Queues / Jobs]
+[Others]CI/CD, ORMs, Logging, Version control, Microservices, Web servers, Caching, Security, Serverless Computing, Testing
 [State Management]
 Meta Tech stack - Overview of Front End Back End 
+
+What is a backend?
+- HARDWARE you can connect via a hardware outside of your computer
+- or CLOUD where you connect via browser
+
+
+
+
 
 
 
