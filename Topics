@@ -1,0 +1,20 @@
+// Note: What AI cannot do (according to Yann Lecun)
+People: 
+- Security: Annie
+- ML: Harris
+- Networks: Linda
+
+How things connect in the system. 
+[User Brower] - [Front End: React] - [API Call: via REST or GraphQL API HTTP request/ Websocket: real time] - [Back End] - [Database: sends back response usually JSON]
+[Front End] HTML/CSS/JS, React
+[API] REST or GraphQL
+[Authentication] JWT, OAuth, or session-based authentication
+[Deployment] Docker (running containers), Kubernetes (orchestrate and manage containers), cloud (AWS, GCP, Azure) can be serverless
+[Back End] Node.js, Django
+[Database] MySQL, MongoDB, PostgreSQL - data storage designed for storing, retriving, managing data as associative, array, dictionaries, or hash table
+[Testing] 
+[State Management]
+Meta Tech stack - Overview of Front End Back End 
+
+
+
