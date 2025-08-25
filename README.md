@@ -72,14 +72,7 @@ AI product manager:
 
 
 <img width="596" height="750" alt="Screenshot 2025-07-27 at 9 58 15 AM" src="https://github.com/user-attachments/assets/2f1b458c-16a7-499f-a6b2-b62f31aedecb" />
-AI Solutions architect:
-- System design
-- LangChain
-- Vector DBs
-- APIs
-- Cloud platforms (AWS/GCP)
-- Orchestration frameworks
-  
+
 ### tools:
 Python/JS visualize code:
 https://pythontutor.com/render.html#mode=display
@@ -90,6 +83,11 @@ https://github.com/practical-tutorials/project-based-learning?tab=readme-ov-file
 
 Checking your progress map in Computer Science: file:///Users/jewelho/Desktop/The_Simple_CS_Degree_Map.pdf
 
+**Productivity:** 
+https://www.linkedin.com/posts/nk-systemdesign-one_if-you-want-to-boost-your-productivity-try-activity-7364986142733017088-Ru7C?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAhaY00B6LNuyFABuEza0mA1sjhD4Jj-NDM
+API related too:
+- Mockman
+  
 
 ### 2025-03-11
 CONCEPTUAL:
