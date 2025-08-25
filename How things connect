@@ -5,13 +5,15 @@ People:
 - Networks: Linda
 
 How things connect in the system. 
+GOAL: be good enough that you can just hack yourway using AI and can debug well. Understanding> code / learning a language.
 Internet is the product of a full stack.
+**The visual**: https://coggle.it/diagram/ZtMDf8rvLIwlbc-0/t/backend-engineering/44ac2c05e0c7fcdd9920723c49ec128e5a65bcc430a145638eb01f5c64a884a1
 
-[User Brower] - [Front End: React] - [API Call: via REST or GraphQL API HTTP request/ Websocket: real time] - [Back End] - [Database: sends back response usually JSON]
-[Front End] HTML/CSS/JS, React, WWW
+[User Browser] - [Front End: React] - [API Call: via REST or GraphQL API HTTP request/ Websocket: real time] - [Back End] - [Database: sends back response usually JSON]
+[Front End] HTML/CSS/JS, **React**, WWW
 [API] REST or GraphQL. Via a network request. located by a url.
 [Authentication] JWT, OAuth, or session-based authentication
-[Deployment] Docker (running containers), Kubernetes (orchestrate and manage containers), cloud (AWS, GCP, Azure) can be serverless
+[Deployment] Docker (running containers), Kubernetes (orchestrate and manage containers), cloud (**AWS**, GCP, Azure) can be serverless
 [Back End] Node.js, Django
 [Database] MySQL, MongoDB, PostgreSQL, SQLite - data storage designed for storing, retriving, managing data as associative, array, dictionaries, or hash table
 - SQL Database (Relational Database): MySQL, PostgreSQL, SQLite
@@ -22,7 +24,9 @@ Internet is the product of a full stack.
 >> Query language: JSON based, MapReduce, custom APIs e.g. MongoDB(document), Meta's DocDB, TAO (key value), firecase
 - **ORMs**: e.g. sequelize 
 [Queues / Jobs]
-[Others]CI/CD, ORMs, Logging, Version control, Microservices, Web servers, Caching, Security, Serverless Computing, Testing
+[Others]
+CI/CD - continuous deployment to make sure it works 
+Logging, Version control, Microservices, Web servers, Caching, Security, Serverless Computing, Testing
 [State Management]
 Meta Tech stack - Overview of Front End Back End 
 
